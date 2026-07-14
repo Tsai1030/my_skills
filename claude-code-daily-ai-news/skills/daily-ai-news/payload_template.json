@@ -1,0 +1,13 @@
+{
+  "slug": "ai-daily-YYYY-MM-DD",
+  "title_zh": "AI 每日報告：YYYY 年 M 月 D 日",
+  "title_en": "AI Daily Report: Month D, YYYY",
+  "excerpt_zh": "2~3 句中文導言，會顯示在文章頁開頭",
+  "excerpt_en": "2-3 sentence English lead, shown at the top of the article page",
+  "body_zh": "## 主題段落一\n\n內文...[1]\n\n## 技術與研究\n\n內文...[2]\n\n## 參考來源\n\n[1] 標題 — 來源 — https://...\n\n[2] 標題 — 來源 — https://...\n",
+  "body_en": "## Topic Section One\n\nBody...[1]\n\n## Technology and Research\n\nBody...[2]\n\n## References\n\n[1] Title — Source — https://...\n\n[2] Title — Source — https://...\n",
+  "cover_image": null,
+  "tags": ["ai-daily", "news", "llm"],
+  "reading_minutes": 6,
+  "published": true
+}

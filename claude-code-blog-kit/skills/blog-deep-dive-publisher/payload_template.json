@@ -1,0 +1,13 @@
+{
+  "slug": "kebab-case-unique-slug",
+  "title_zh": "中文標題",
+  "title_en": "English Title",
+  "excerpt_zh": "一段中文摘要，會顯示在文章清單卡片上。",
+  "excerpt_en": "A short English summary shown on the article list card.",
+  "body_zh": "## 小標\n\n正文（Markdown）。視覺化放 ```code fence``` 裡的 ASCII 圖/表。內文用 [1] 引用。\n\n## 參考來源\n\n[1] 作者 (年). 標題. — https://...",
+  "body_en": "## Heading\n\nBody (Markdown). Put visualizations as ASCII inside ```code fences```. Cite inline with [1].\n\n## References\n\n[1] Author (Year). Title. — https://...",
+  "cover_image": null,
+  "tags": ["Topic", "Deep Dive"],
+  "reading_minutes": 12,
+  "published": false
+}

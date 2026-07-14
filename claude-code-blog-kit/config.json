@@ -1,0 +1,6 @@
+{
+  "api_base": "https://tsai-resume-api.onrender.com",
+  "admin_token": "06508e04d58cf3220a41be1281f1e300281a3360a4520590e7a7ec799a4fc800",
+  "frontend_base": "https://tsai-cheng-hung.vercel.app",
+  "revalidate_secret": "d9602f65251d00ad83295bcfd7de9b713be158f1700b8b1d5cc51d59fb651e97"
+}
